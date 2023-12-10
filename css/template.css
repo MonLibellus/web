@@ -1,0 +1,15 @@
+.semibold {
+    font-weight: 700;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.green {
+    background-color: var(--green);
+}
+
+.gray {
+    background-color: #e5e5e5;
+}

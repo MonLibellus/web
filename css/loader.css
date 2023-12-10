@@ -1,0 +1,23 @@
+#loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100vw;
+    height: 100vh;
+
+    z-index: 256;
+}
+
+#loader svg {
+    width: 10vh;
+    height: 10vh;
+}
+
+#loader p {
+    position: absolute;
+    bottom: 0;
+    
+    font-size: 2vh;
+    color: #408855;
+}
